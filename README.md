@@ -9,12 +9,12 @@ to find a new place to survive by crossing levels of
 busy road filled with cars. You will get different
 endings based on your play through. 
 
-![Image of Game](https://github.com/yueyaog/road_Crosser/blob/master/auxiliary/gamePlay_Scrrenshot.png)
+![Image of Game](auxiliary/gamePlay_Scrrenshot.png)
 
 ## Execute the Game
 You need to have Python installed on your computer.
-And move to the directory and execute the following
-line
+And move to the directory that contains `main.py`
+and execute the following line
 ```angular2html
 python3 main.py
 ```
